@@ -1,0 +1,19 @@
+13:28:12.991 [main] INFO  testCases.TC001_RegisterTest - ****Test is about to start*****
+13:28:12.999 [main] INFO  testCases.TC001_RegisterTest - Home page is loading
+13:28:13.481 [main] INFO  testCases.TC001_RegisterTest - My account link is clicked on Home page
+13:28:14.289 [main] INFO  testCases.TC001_RegisterTest - Navigated to Register page
+13:28:15.691 [main] INFO  testCases.TC001_RegisterTest - All data filled into Register page text fields
+13:28:16.728 [main] ERROR testCases.TC001_RegisterTest - ***Test is Failed***
+13:28:16.728 [main] DEBUG testCases.TC001_RegisterTest - This is set to debug mode
+13:31:13.379 [main] INFO  testCases.TC001_RegisterTest - ****Test is about to start*****
+13:31:13.385 [main] INFO  testCases.TC001_RegisterTest - Home page is loading
+13:31:14.074 [main] INFO  testCases.TC001_RegisterTest - My account link is clicked on Home page
+13:31:14.942 [main] INFO  testCases.TC001_RegisterTest - Navigated to Register page
+13:31:16.312 [main] INFO  testCases.TC001_RegisterTest - All data filled into Register page text fields
+13:31:17.235 [main] INFO  testCases.TC001_RegisterTest - ****Test is about to Complete*****
+18:38:56.994 [main] INFO  testCases.TC001_RegisterTest - ****Test is about to start*****
+18:38:57.072 [main] INFO  testCases.TC001_RegisterTest - Home page is loading
+18:38:59.298 [main] INFO  testCases.TC001_RegisterTest - My account link is clicked on Home page
+18:39:00.376 [main] INFO  testCases.TC001_RegisterTest - Navigated to Register page
+18:39:01.766 [main] INFO  testCases.TC001_RegisterTest - All data filled into Register page text fields
+18:39:03.512 [main] INFO  testCases.TC001_RegisterTest - ****Test is about to Complete*****
